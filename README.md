@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my GitHub profile. This is my space for programs, works in progress, and ideas.
+### Learn more about me at: https://www.linkedin.com/in/cherylrgreenwald/
 
 <!--
 **cherylrgreenwald/cherylrgreenwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
